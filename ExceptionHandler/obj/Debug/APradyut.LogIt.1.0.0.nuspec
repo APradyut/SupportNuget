@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>APradyut.LogIt</id>
+    <version>1.0.0</version>
+    <authors>APradyut</authors>
+    <owners>APradyut</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Logging made easy</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Adarsh\source\repos\Support.Utils\ExceptionHandler\bin\Debug\netcoreapp2.1\LogIt.dll" target="lib\netcoreapp2.1\LogIt.dll" />
+  </files>
+</package>

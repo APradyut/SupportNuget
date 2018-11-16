@@ -1,0 +1,14 @@
+C:\Users\Adarsh\source\repos\Support.Utils\LogItTest\obj\Debug\netcoreapp2.1\LogItTest.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\source\repos\Support.Utils\LogItTest\obj\Debug\netcoreapp2.1\LogItTest.AssemblyInfoInputs.cache
+C:\Users\Adarsh\source\repos\Support.Utils\LogItTest\obj\Debug\netcoreapp2.1\LogItTest.AssemblyInfo.cs
+C:\Users\Adarsh\source\repos\Support.Utils\LogItTest\bin\Debug\netcoreapp2.1\LogItTest.deps.json
+C:\Users\Adarsh\source\repos\Support.Utils\LogItTest\bin\Debug\netcoreapp2.1\LogItTest.runtimeconfig.json
+C:\Users\Adarsh\source\repos\Support.Utils\LogItTest\bin\Debug\netcoreapp2.1\LogItTest.runtimeconfig.dev.json
+C:\Users\Adarsh\source\repos\Support.Utils\LogItTest\bin\Debug\netcoreapp2.1\LogItTest.dll
+C:\Users\Adarsh\source\repos\Support.Utils\LogItTest\bin\Debug\netcoreapp2.1\LogItTest.pdb
+C:\Users\Adarsh\source\repos\Support.Utils\LogItTest\bin\Debug\netcoreapp2.1\LogIt.dll
+C:\Users\Adarsh\source\repos\Support.Utils\LogItTest\bin\Debug\netcoreapp2.1\LogIt.pdb
+C:\Users\Adarsh\source\repos\Support.Utils\LogItTest\obj\Debug\netcoreapp2.1\LogItTest.csprojAssemblyReference.cache
+C:\Users\Adarsh\source\repos\Support.Utils\LogItTest\obj\Debug\netcoreapp2.1\LogItTest.csproj.CopyComplete
+C:\Users\Adarsh\source\repos\Support.Utils\LogItTest\obj\Debug\netcoreapp2.1\LogItTest.dll
+C:\Users\Adarsh\source\repos\Support.Utils\LogItTest\obj\Debug\netcoreapp2.1\LogItTest.pdb

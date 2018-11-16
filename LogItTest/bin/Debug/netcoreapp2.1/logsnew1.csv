@@ -1,0 +1,6 @@
+﻿Date Time, Error number, Error StackTrace, Error/Info Message, Error Inner Message
+17-Nov-18 1:52:35 AM,131868733,,Overflow or underflow in the arithmetic operation.,
+17-Nov-18 1:52:35 AM,131868733,,Exception of type 'System.Exception' was thrown.,
+,Log,,This is a test log message
+17-Nov-18 1:52:35 AM,131868733,,Overflow or underflow in the arithmetic operation.,
+17-Nov-18 1:52:35 AM,131868733,,Exception of type 'System.Exception' was thrown.,

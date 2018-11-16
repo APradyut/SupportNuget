@@ -1,0 +1,53 @@
+﻿Logging file created on 17-Nov-18 1:53:39 AM
+
+
+############################################################################
+Date Time: 17-Nov-18 1:53:39 AM
+Error number: 131868734
+Error occured in: 
+Error Message: Overflow or underflow in the arithmetic operation.
+Error Inner Message: 
+############################################################################
+Date Time: 17-Nov-18 1:53:39 AM
+Error number: 131868734
+Error occured in: 
+Error Message: Exception of type 'System.Exception' was thrown.
+Error Inner Message: 
+,Log,,This is a test log message
+############################################################################
+Date Time: 17-Nov-18 1:53:39 AM
+Error number: 131868734
+Error occured in: 
+Error Message: Overflow or underflow in the arithmetic operation.
+Error Inner Message: 
+############################################################################
+Date Time: 17-Nov-18 1:53:39 AM
+Error number: 131868734
+Error occured in: 
+Error Message: Exception of type 'System.Exception' was thrown.
+Error Inner Message: 
+############################################################################
+Date Time: 17-Nov-18 1:55:06 AM
+Error number: 131868735
+Error occured in: 
+Error Message: Overflow or underflow in the arithmetic operation.
+Error Inner Message: 
+############################################################################
+Date Time: 17-Nov-18 1:55:06 AM
+Error number: 131868735
+Error occured in: 
+Error Message: Exception of type 'System.Exception' was thrown.
+Error Inner Message: 
+Log: This is a test log message
+############################################################################
+Date Time: 17-Nov-18 1:55:06 AM
+Error number: 131868735
+Error occured in: 
+Error Message: Overflow or underflow in the arithmetic operation.
+Error Inner Message: 
+############################################################################
+Date Time: 17-Nov-18 1:55:06 AM
+Error number: 131868735
+Error occured in: 
+Error Message: Exception of type 'System.Exception' was thrown.
+Error Inner Message: 

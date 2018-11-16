@@ -1,0 +1,9 @@
+C:\Users\Adarsh\source\repos\Support.Utils\ExceptionHandler\obj\Debug\netcoreapp2.1\LogIt.csprojAssemblyReference.cache
+C:\Users\Adarsh\source\repos\Support.Utils\ExceptionHandler\obj\Debug\netcoreapp2.1\LogIt.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\source\repos\Support.Utils\ExceptionHandler\obj\Debug\netcoreapp2.1\LogIt.AssemblyInfoInputs.cache
+C:\Users\Adarsh\source\repos\Support.Utils\ExceptionHandler\obj\Debug\netcoreapp2.1\LogIt.AssemblyInfo.cs
+C:\Users\Adarsh\source\repos\Support.Utils\ExceptionHandler\bin\Debug\netcoreapp2.1\LogIt.deps.json
+C:\Users\Adarsh\source\repos\Support.Utils\ExceptionHandler\bin\Debug\netcoreapp2.1\LogIt.dll
+C:\Users\Adarsh\source\repos\Support.Utils\ExceptionHandler\bin\Debug\netcoreapp2.1\LogIt.pdb
+C:\Users\Adarsh\source\repos\Support.Utils\ExceptionHandler\obj\Debug\netcoreapp2.1\LogIt.dll
+C:\Users\Adarsh\source\repos\Support.Utils\ExceptionHandler\obj\Debug\netcoreapp2.1\LogIt.pdb
